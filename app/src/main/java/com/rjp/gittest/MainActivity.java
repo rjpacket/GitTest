@@ -10,9 +10,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        System.out.println("rjp 的第一次提交");
-        System.out.println("rjp 的第二次提交");
-        System.out.println("rjp 的第三次提交");
+        System.out.println("dev 2222222222222222222222");
 
     }
 }
