@@ -11,5 +11,6 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         System.out.println("rjp 的第一次提交");
+        System.out.println("rjp 的第二次提交");
     }
 }
